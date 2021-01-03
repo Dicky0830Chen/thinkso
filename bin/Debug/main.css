@@ -1,0 +1,63 @@
+.lbl {
+font-size:12pt;
+color:#000088;  
+font-family: 細明體;
+}
+.lbl1 {
+font-size:12pt;
+font-family: 細明體;
+color:#0000ff;  
+}
+.lblr {
+font-size:12pt;
+font-family: 細明體;
+color:#880000;  
+}
+.lblg {
+font-size:12pt;
+font-family: 細明體;
+color:#004400;  
+}
+.lbly {
+font-size:12pt;
+font-family: 細明體;
+color:#220022;  
+}
+.lblh {
+font-size:12pt;
+font-family: 細明體;
+color:#000088;  
+cursor:hand;
+}
+.lblw {
+font-size:12pt;
+font-family: 細明體;
+color:#ffffff;  
+cursor:hand;
+}
+
+.pwd     {
+background-color: #F5F9FA;
+border:1px solid #CCCCCC;
+height:15px;
+font-size:12pt;
+font-family: 細明體;
+}
+
+.grdhd   {
+color:#000055;
+font-size:11pt;
+font-family: 細明體;
+}
+
+.grdtd   {
+color:#660000;
+font-size:11pt;
+font-family: 細明體;
+}
+
+.tdbox {border:0px solid;background-color:#ffffff;margin: 1px 1px 1px 1px;}
+
+.table {table-layout: fixed;border:0px solid;background-color:#000000}
+.table td {border:0px solid;background-color:#ffffff;margin: 1px 1px 1px 1px;}
+
